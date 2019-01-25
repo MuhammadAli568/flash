@@ -37,9 +37,11 @@ I found that larger classes lessen the total moves to partition the data.
 
 It is simply used premutation concept easily then it insert the class uniformly. It is benefical for sorting program
  due to less complexity
- ## Group members 
+
+## Group members 
 17B-093-SE
-
+(Muhammad Ali)
 17B-094-SE
-
-17B-128-SE.
+(Hamdan Farooq)
+17B-128-SE
+(Hamza Farooq)
