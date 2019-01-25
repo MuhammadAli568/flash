@@ -1,0 +1,6 @@
+C:\Users\Computer Point\Downloads\Semistor 3\data structures\Flashsort\Flashsort\bin\Debug\Flashsort.exe.config
+C:\Users\Computer Point\Downloads\Semistor 3\data structures\Flashsort\Flashsort\obj\Debug\Flashsort.csprojResolveAssemblyReference.cache
+C:\Users\Computer Point\Downloads\Semistor 3\data structures\Flashsort\Flashsort\bin\Debug\Flashsort.exe
+C:\Users\Computer Point\Downloads\Semistor 3\data structures\Flashsort\Flashsort\bin\Debug\Flashsort.pdb
+C:\Users\Computer Point\Downloads\Semistor 3\data structures\Flashsort\Flashsort\obj\Debug\Flashsort.exe
+C:\Users\Computer Point\Downloads\Semistor 3\data structures\Flashsort\Flashsort\obj\Debug\Flashsort.pdb
