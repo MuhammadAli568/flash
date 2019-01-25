@@ -41,7 +41,9 @@ It is simply used premutation concept easily then it insert the class uniformly.
 ## Group members 
 17B-093-SE
 (Muhammad Ali)
+
 17B-094-SE
 (Hamdan Farooq)
+
 17B-128-SE
 (Hamza Farooq)
